@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aleks\\source\\repos\\TestAutomationShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1734DAFD-4A0D-4234-A8A8-7CA20426F060}|TestAutomationShop\\TestAutomationShop.csproj|c:\\users\\aleks\\source\\repos\\testautomationshop\\testautomationshop\\testbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1734DAFD-4A0D-4234-A8A8-7CA20426F060}|TestAutomationShop\\TestAutomationShop.csproj|solutionrelative:testautomationshop\\testbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1734DAFD-4A0D-4234-A8A8-7CA20426F060}|TestAutomationShop\\TestAutomationShop.csproj|c:\\users\\aleks\\source\\repos\\testautomationshop\\testautomationshop\\e2e_tests_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1734DAFD-4A0D-4234-A8A8-7CA20426F060}|TestAutomationShop\\TestAutomationShop.csproj|solutionrelative:testautomationshop\\e2e_tests_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1734DAFD-4A0D-4234-A8A8-7CA20426F060}|TestAutomationShop\\TestAutomationShop.csproj|c:\\users\\aleks\\source\\repos\\testautomationshop\\testautomationshop\\pages\\signinpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1734DAFD-4A0D-4234-A8A8-7CA20426F060}|TestAutomationShop\\TestAutomationShop.csproj|solutionrelative:testautomationshop\\pages\\signinpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1734DAFD-4A0D-4234-A8A8-7CA20426F060}|TestAutomationShop\\TestAutomationShop.csproj|c:\\users\\aleks\\source\\repos\\testautomationshop\\testautomationshop\\pages\\searchresultspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1734DAFD-4A0D-4234-A8A8-7CA20426F060}|TestAutomationShop\\TestAutomationShop.csproj|solutionrelative:testautomationshop\\pages\\searchresultspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1734DAFD-4A0D-4234-A8A8-7CA20426F060}|TestAutomationShop\\TestAutomationShop.csproj|c:\\users\\aleks\\source\\repos\\testautomationshop\\testautomationshop\\pages\\registrationpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1734DAFD-4A0D-4234-A8A8-7CA20426F060}|TestAutomationShop\\TestAutomationShop.csproj|solutionrelative:testautomationshop\\pages\\registrationpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1734DAFD-4A0D-4234-A8A8-7CA20426F060}|TestAutomationShop\\TestAutomationShop.csproj|c:\\users\\aleks\\source\\repos\\testautomationshop\\testautomationshop\\pages\\productpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1734DAFD-4A0D-4234-A8A8-7CA20426F060}|TestAutomationShop\\TestAutomationShop.csproj|solutionrelative:testautomationshop\\pages\\productpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestBase.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\TestAutomationShop\\TestAutomationShop\\TestBase.cs",
+              "RelativeDocumentMoniker": "TestAutomationShop\\TestBase.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\TestAutomationShop\\TestAutomationShop\\TestBase.cs",
+              "RelativeToolTip": "TestAutomationShop\\TestBase.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwCEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T09:12:10.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SearchResultsPage.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\TestAutomationShop\\TestAutomationShop\\Pages\\SearchResultsPage.cs",
+              "RelativeDocumentMoniker": "TestAutomationShop\\Pages\\SearchResultsPage.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\TestAutomationShop\\TestAutomationShop\\Pages\\SearchResultsPage.cs",
+              "RelativeToolTip": "TestAutomationShop\\Pages\\SearchResultsPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T09:05:47.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SignInPage.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\TestAutomationShop\\TestAutomationShop\\Pages\\SignInPage.cs",
+              "RelativeDocumentMoniker": "TestAutomationShop\\Pages\\SignInPage.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\TestAutomationShop\\TestAutomationShop\\Pages\\SignInPage.cs",
+              "RelativeToolTip": "TestAutomationShop\\Pages\\SignInPage.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T09:00:51.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "E2E_Tests_Login.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\TestAutomationShop\\TestAutomationShop\\E2E_Tests_Login.cs",
+              "RelativeDocumentMoniker": "TestAutomationShop\\E2E_Tests_Login.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\TestAutomationShop\\TestAutomationShop\\E2E_Tests_Login.cs",
+              "RelativeToolTip": "TestAutomationShop\\E2E_Tests_Login.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwDgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T09:00:15.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegistrationPage.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\TestAutomationShop\\TestAutomationShop\\Pages\\RegistrationPage.cs",
+              "RelativeDocumentMoniker": "TestAutomationShop\\Pages\\RegistrationPage.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\TestAutomationShop\\TestAutomationShop\\Pages\\RegistrationPage.cs",
+              "RelativeToolTip": "TestAutomationShop\\Pages\\RegistrationPage.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAAEUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T01:14:10.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductPage.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\TestAutomationShop\\TestAutomationShop\\Pages\\ProductPage.cs",
+              "RelativeDocumentMoniker": "TestAutomationShop\\Pages\\ProductPage.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\TestAutomationShop\\TestAutomationShop\\Pages\\ProductPage.cs",
+              "RelativeToolTip": "TestAutomationShop\\Pages\\ProductPage.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA8wBEAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T01:12:04.15Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
